@@ -3,7 +3,7 @@
 **Business & Operations Analysis | Strategy Research | Product & Data**
 
 **Education**  
-Northeastern University · Urban Planning (Undergraduate) · 2022.09–2027.06
+Northeastern University · Urban Planning (Undergraduate) · 2022.09–2027.06<br>
 Renmin University of China · Low-altitude Intelligence and Smart Governance (Master’s) · 2027.09–2029.06
 
 I work on practical questions at the intersection of operations, product, and analysis: what is going wrong, why it matters, and what should be tested next.
