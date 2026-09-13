@@ -95,22 +95,13 @@ Led a **15-member interdisciplinary team** in a rural cultural and tourism devel
 
 ## How I Use AI
 
-I use AI as a practical productivity and problem-solving tool rather than only as a content generator.
+I use AI to accelerate research, analysis, prototyping, and execution while retaining human judgment and verification.
 
-- Generate and debug Python scripts with ChatGPT and Codex
+- Translate business and research questions into executable analytical workflows
+- Generate, review, and debug Python scripts with ChatGPT and Codex
 - Automate repetitive data-cleaning and batch-processing tasks
-- Assist with research synthesis and structured information extraction
-- Translate business or research questions into executable analytical workflows
-- Explore rapid prototyping through AI-assisted development
-
-## Portfolio Projects
-
-The following portfolio projects are currently being developed:
-
-- AI Product Prototype
-- Product Operations Data Analysis
-- Low-altitude Economy Industry Research
-- Data-driven Service Diagnosis
+- Structure research synthesis and extract information from complex materials
+- Build and deploy product prototypes through AI-assisted development
 
 ## Selected Publications
 
@@ -120,14 +111,7 @@ The following portfolio projects are currently being developed:
 
 ## Current Interests
 
-- Product Management
-- Product Operations
-- Strategy and Industry Analysis
+- Product Management and Product Operations
+- Business and Strategy Analysis
 - Data-driven Decision-Making
 - AI Products and AI-enabled Workflows
-- Low-altitude Economy and Digital Governance
-
-## Contact
-
-- Email: [jeffreyzhjin@foxmail.com](mailto:jeffreyzhjin@foxmail.com)
-- ORCID: [0009-0005-9432-2653](https://orcid.org/0009-0005-9432-2653)
