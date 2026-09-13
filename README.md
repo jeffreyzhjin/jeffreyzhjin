@@ -4,6 +4,7 @@
 
 **Education**  
 Northeastern University · Urban Planning (Undergraduate) · 2022.09–2027.06
+
 Renmin University of China · Low-altitude Intelligence and Smart Governance (Master’s) · 2027.09–2029.06
 
 I work on practical questions at the intersection of operations, product, and analysis: what is going wrong, why it matters, and what should be tested next.
