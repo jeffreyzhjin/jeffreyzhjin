@@ -1,6 +1,6 @@
 # ZHANG JIN
 
-**Product & Operations | Strategy Analysis | Data Analytics | AI Applications**
+**Product & Operations | Business & Strategy Analysis | Data & AI**
 
 Renmin University of China
 
