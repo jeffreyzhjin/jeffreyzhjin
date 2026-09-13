@@ -1,49 +1,57 @@
 # ZHANG JIN
 
-**Product & Operations | Business & Strategy Analysis | Data & AI**
+**Business & Operations Analysis | Strategy Research | Product & Data**
 
-Renmin University of China
+Northeastern University · Incoming graduate student at Renmin University of China (2027)
 
-I combine structured problem-solving, data analysis, and AI tools to turn complex information into actionable product and business insights.
+I work on practical questions at the intersection of operations, product, and analysis: what is going wrong, why it matters, and what should be tested next.
 
-My experience spans user research, multi-source data analysis, project operations, strategy development, and cross-functional collaboration. I am currently exploring opportunities in product management, product operations, and strategy analysis.
+My experience includes user research, multi-source data analysis, project operations, industry research, and AI-assisted prototyping. I am currently exploring internship opportunities in business and operations analysis, strategy research, and product operations.
 
 ## Featured Portfolio Projects
 
-### [AI Job Insight Assistant](https://github.com/jeffreyzhjin/ai-job-insight-assistant)
-
-A deployed AI-assisted career analysis product that transforms unstructured job descriptions into structured requirements, evidence-based resume matching, capability-gap analysis, and role-specific interview preparation.
-
-- **Product Design:** Defined the problem, target users, MVP scope, feature priorities, PRD, and user flow
-- **AI Application:** Designed structured analysis workflows, evidence constraints, and human-verification safeguards
-- **Data & Implementation:** Built the runnable MVP with Python, Streamlit, Pydantic, pandas, and the OpenAI API
-- **Product Delivery:** Deployed a public interactive application with downloadable analysis reports
-
-[**Live Demo**](https://zhang-jin-ai-job-insight.streamlit.app/) ·
-[Repository](https://github.com/jeffreyzhjin/ai-job-insight-assistant) ·
-[PRD](https://github.com/jeffreyzhjin/ai-job-insight-assistant/blob/main/docs/PRD.md) ·
-[User Flow](https://github.com/jeffreyzhjin/ai-job-insight-assistant/blob/main/docs/user-flow.md)
-
 ### [Commerce Operations Intelligence](https://github.com/jeffreyzhjin/commerce-operations-intelligence)
 
-A deployed decision-oriented commerce operations dashboard that detects KPI anomalies, identifies business drivers, segments customers, and translates analytical findings into prioritized retention actions.
+A decision-oriented commerce dashboard that traces KPI changes to business drivers, segments customers, and turns the findings into a prioritized operating backlog.
 
-- **Business Diagnosis:** Compared equal-length periods, detected adverse KPI movements, and decomposed revenue changes by channel, category, and region
-- **Customer Analytics:** Built explainable RFM segmentation and monthly cohort-retention analysis
-- **Strategy & Operations:** Converted diagnostic signals into an action backlog with evidence, owners, success metrics, and priority scores
-- **Data & Implementation:** Developed a reproducible Streamlit application with Python, pandas, Plotly, simulated data, and automated tests
+- **Business diagnosis:** Compared equal-length periods, flagged adverse KPI movements, and decomposed revenue changes by channel, category, and region
+- **Customer analysis:** Built explainable RFM segmentation and monthly cohort-retention analysis
+- **Operating response:** Connected each issue to evidence, an owner, a success metric, and a priority score
+- **Implementation:** Built and tested the Streamlit application with Python, pandas, Plotly, and reproducible simulated data
 
-[Live Demo](https://zhang-jin-commerce-operations.streamlit.app/) · [Repository](https://github.com/jeffreyzhjin/commerce-operations-intelligence) · [PRD](https://github.com/jeffreyzhjin/commerce-operations-intelligence/blob/main/docs/PRD.md) · [Metrics](https://github.com/jeffreyzhjin/commerce-operations-intelligence/blob/main/docs/METRICS.md) · [Transformation Log](https://github.com/jeffreyzhjin/commerce-operations-intelligence/blob/main/docs/TRANSFORMATION_LOG.md)
+[**Live Demo**](https://zhang-jin-commerce-operations.streamlit.app/) · [Repository](https://github.com/jeffreyzhjin/commerce-operations-intelligence) · [PRD](https://github.com/jeffreyzhjin/commerce-operations-intelligence/blob/main/docs/PRD.md) · [Metrics](https://github.com/jeffreyzhjin/commerce-operations-intelligence/blob/main/docs/METRICS.md) · [Transformation Log](https://github.com/jeffreyzhjin/commerce-operations-intelligence/blob/main/docs/TRANSFORMATION_LOG.md)
+
+### [Low-altitude Economy Strategy](https://github.com/jeffreyzhjin/low-altitude-economy-strategy)
+
+A scenario-prioritization study for deciding where an internet or technology platform should enter China's low-altitude economy.
+
+- **Research:** Organized official policy, regulator statistics, and company cases in a traceable source ledger
+- **Decision model:** Compared six scenarios across demand, platform fit, commercialization, regulatory feasibility, and data/network effects
+- **Recommendation:** Prioritized a restricted instant-delivery pilot and an asset-light digital-services path; treated aircraft, operations, and permissions as partnership areas
+- **Delivery:** Produced a reproducible Python analysis, editable Excel model, Streamlit simulator, sensitivity tests, and an eight-page strategy brief
+
+[**Live Demo**](https://zhang-jin-low-altitude-strategy.streamlit.app/) · [Repository](https://github.com/jeffreyzhjin/low-altitude-economy-strategy) · [Strategy Brief](https://github.com/jeffreyzhjin/low-altitude-economy-strategy/blob/main/report/low-altitude-economy-strategy-brief.pdf) · [Decision Model](https://github.com/jeffreyzhjin/low-altitude-economy-strategy/blob/main/model/low-altitude-scenario-model.xlsx) · [Methodology](https://github.com/jeffreyzhjin/low-altitude-economy-strategy/blob/main/docs/methodology.md)
+
+### [AI Job Insight Assistant](https://github.com/jeffreyzhjin/ai-job-insight-assistant)
+
+A career-analysis prototype that turns an unstructured job description into structured requirements, evidence-based resume matching, capability-gap analysis, and role-specific interview preparation.
+
+- **Product design:** Defined the problem, target users, MVP scope, feature priorities, PRD, and user flow
+- **Analysis design:** Set evidence constraints and human-verification safeguards for the output
+- **Implementation:** Built the runnable MVP with Python, Streamlit, Pydantic, pandas, and the OpenAI API
+- **Delivery:** Deployed a public interactive application with downloadable analysis reports
+
+[**Live Demo**](https://zhang-jin-ai-job-insight.streamlit.app/) · [Repository](https://github.com/jeffreyzhjin/ai-job-insight-assistant) · [PRD](https://github.com/jeffreyzhjin/ai-job-insight-assistant/blob/main/docs/PRD.md) · [User Flow](https://github.com/jeffreyzhjin/ai-job-insight-assistant/blob/main/docs/user-flow.md)
 
 ## What I Bring
 
 | Capability | Experience |
 |---|---|
-| Product Thinking | User needs analysis, problem definition, service evaluation, solution design |
+| Business and Strategy Analysis | Industry research, problem structuring, prioritization, decision frameworks |
 | Operations | Project execution, activity planning, content operations, stakeholder coordination |
-| Strategy Analysis | Industry research, spatial diagnosis, prioritization, strategy development |
+| Product Thinking | User-needs analysis, problem definition, service evaluation, solution design |
 | Data Analytics | Python, R, Excel, data cleaning, statistical analysis, visualization |
-| AI Applications | ChatGPT, Codex, AI-assisted coding, automated data-processing workflows |
+| AI-assisted Workflows | Structured extraction, coding support, batch processing, rapid prototyping |
 | Project Management | Team coordination, task allocation, external communication, delivery management |
 
 ## Selected Experience
@@ -56,19 +64,19 @@ Conducted user-oriented research on elderly-friendly community services in Sheny
 - Processed **15,298 service facility records**
 - Evaluated **510 community service areas**
 - Identified user needs, service gaps, and nonlinear influencing factors
-- Translated analytical findings into differentiated service optimization recommendations
+- Translated the findings into differentiated service-improvement recommendations
 
 **Relevant capabilities:** User Research · Needs Analysis · Data Analytics · Strategy Development
 
 ### Data-Driven Problem Diagnosis
 
-Developed a framework for diagnosing urban green space service problems across **1,927 analytical units**.
+Developed a framework for diagnosing urban green-space service problems across **1,927 analytical units**.
 
 - Integrated population, facility, accessibility, transport, building, and functional data
 - Classified complex service problems into five actionable categories
 - Used XGBoost and SHAP to identify key variables and nonlinear relationships
 - Converted modeling results into prioritized improvement strategies
-- Completed the full process from problem definition to analysis and final delivery
+- Completed the work from problem definition through analysis and final delivery
 
 **Relevant capabilities:** Problem Structuring · Data Modeling · Prioritization · Strategic Recommendations
 
@@ -80,28 +88,27 @@ Led a **15-member interdisciplinary team** in a rural cultural and tourism devel
 - Conducted more than 30 days of field research and 32 stakeholder interviews
 - Supported four themed activities that attracted over **6,000 visitors**
 - Delivered planning proposals, product packaging, visual content, and online communication materials
-- Helped establish a long-term university–community cooperation mechanism
+- Helped establish a long-term university-community cooperation mechanism
 
 **Relevant capabilities:** Project Operations · Stakeholder Management · Cross-functional Collaboration · Delivery Management
 
-## Data and AI Toolkit
+## Tools
 
-- **Data Analysis:** Python, pandas, NumPy, R, Excel
+- **Data analysis:** Python, pandas, NumPy, R, Excel
 - **Visualization:** Matplotlib, R visualization, ArcGIS
-- **Modeling:** XGBoost, SHAP, cross-validation, Bootstrap
-- **AI Tools:** ChatGPT, Codex, AI-assisted coding and debugging
-- **Workflow:** Data cleaning, batch processing, automated analysis, visualization, reporting
-- **Other Tools:** Office, Photoshop, LaTeX, NVivo, Origin
+- **Modeling:** XGBoost, SHAP, cross-validation, bootstrap
+- **Product development:** Streamlit, Pydantic, GitHub, AI-assisted coding and debugging
+- **Research and delivery:** Office, Photoshop, LaTeX, NVivo, Origin
 
 ## How I Use AI
 
-I use AI to accelerate research, analysis, prototyping, and execution while retaining human judgment and verification.
+I use AI as a working tool for research, analysis, and prototyping, while checking important claims and decisions against source material.
 
-- Translate business and research questions into executable analytical workflows
-- Generate, review, and debug Python scripts with ChatGPT and Codex
-- Automate repetitive data-cleaning and batch-processing tasks
-- Structure research synthesis and extract information from complex materials
-- Build and deploy product prototypes through AI-assisted development
+- Translate business or research questions into executable analytical steps
+- Draft, review, and debug Python code
+- Automate repetitive cleaning and batch-processing tasks
+- Structure research materials and extract information for human review
+- Build and test interactive prototypes
 
 ## Selected Publications
 
@@ -111,7 +118,8 @@ I use AI to accelerate research, analysis, prototyping, and execution while reta
 
 ## Current Interests
 
+- Business and Operations Analysis
+- Strategy and Industry Research
 - Product Management and Product Operations
-- Business and Strategy Analysis
 - Data-driven Decision-Making
 - AI Products and AI-enabled Workflows
