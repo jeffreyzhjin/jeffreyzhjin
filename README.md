@@ -10,6 +10,22 @@ My experience spans user research, multi-source data analysis, project operation
 
 ## What I Bring
 
+## Featured Product Project
+
+### [AI Job Insight Assistant](https://github.com/jeffreyzhjin/ai-job-insight-assistant)
+
+A deployed AI-assisted career analysis product that transforms unstructured job descriptions into structured requirements, evidence-based resume matching, capability-gap analysis, and role-specific interview preparation.
+
+- **Product Design:** Defined the problem, target users, MVP scope, feature priorities, PRD, and user flow
+- **AI Application:** Designed structured analysis workflows, evidence constraints, and human-verification safeguards
+- **Data & Implementation:** Built the runnable MVP with Python, Streamlit, Pydantic, pandas, and the OpenAI API
+- **Product Delivery:** Deployed a public interactive application with downloadable analysis reports
+
+[**Live Demo**](https://zhang-jin-ai-job-insight.streamlit.app/) ·
+[Repository](https://github.com/jeffreyzhjin/ai-job-insight-assistant) ·
+[PRD](https://github.com/jeffreyzhjin/ai-job-insight-assistant/blob/main/docs/PRD.md) ·
+[User Flow](https://github.com/jeffreyzhjin/ai-job-insight-assistant/blob/main/docs/user-flow.md)
+
 | Capability | Experience |
 |---|---|
 | Product Thinking | User needs analysis, problem definition, service evaluation, solution design |
