@@ -8,9 +8,7 @@ I combine structured problem-solving, data analysis, and AI tools to turn comple
 
 My experience spans user research, multi-source data analysis, project operations, strategy development, and cross-functional collaboration. I am currently exploring opportunities in product management, product operations, and strategy analysis.
 
-## What I Bring
-
-## Featured Product Project
+## Featured Portfolio Projects
 
 ### [AI Job Insight Assistant](https://github.com/jeffreyzhjin/ai-job-insight-assistant)
 
@@ -25,6 +23,19 @@ A deployed AI-assisted career analysis product that transforms unstructured job 
 [Repository](https://github.com/jeffreyzhjin/ai-job-insight-assistant) ·
 [PRD](https://github.com/jeffreyzhjin/ai-job-insight-assistant/blob/main/docs/PRD.md) ·
 [User Flow](https://github.com/jeffreyzhjin/ai-job-insight-assistant/blob/main/docs/user-flow.md)
+
+### [Commerce Operations Intelligence](https://github.com/jeffreyzhjin/commerce-operations-intelligence)
+
+A deployed decision-oriented commerce operations dashboard that detects KPI anomalies, identifies business drivers, segments customers, and translates analytical findings into prioritized retention actions.
+
+- **Business Diagnosis:** Compared equal-length periods, detected adverse KPI movements, and decomposed revenue changes by channel, category, and region
+- **Customer Analytics:** Built explainable RFM segmentation and monthly cohort-retention analysis
+- **Strategy & Operations:** Converted diagnostic signals into an action backlog with evidence, owners, success metrics, and priority scores
+- **Data & Implementation:** Developed a reproducible Streamlit application with Python, pandas, Plotly, simulated data, and automated tests
+
+[Live Demo](https://zhang-jin-commerce-operations.streamlit.app/) · [Repository](https://github.com/jeffreyzhjin/commerce-operations-intelligence) · [PRD](https://github.com/jeffreyzhjin/commerce-operations-intelligence/blob/main/docs/PRD.md) · [Metrics](https://github.com/jeffreyzhjin/commerce-operations-intelligence/blob/main/docs/METRICS.md) · [Transformation Log](https://github.com/jeffreyzhjin/commerce-operations-intelligence/blob/main/docs/TRANSFORMATION_LOG.md)
+
+## What I Bring
 
 | Capability | Experience |
 |---|---|
