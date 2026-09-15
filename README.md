@@ -23,6 +23,18 @@ A decision-oriented commerce dashboard that traces KPI changes to business drive
 
 [**Live Demo**](https://zhang-jin-commerce-operations.streamlit.app/) · [Repository](https://github.com/jeffreyzhjin/commerce-operations-intelligence) · [PRD](https://github.com/jeffreyzhjin/commerce-operations-intelligence/blob/main/docs/PRD.md) · [Metrics](https://github.com/jeffreyzhjin/commerce-operations-intelligence/blob/main/docs/METRICS.md) · [Transformation Log](https://github.com/jeffreyzhjin/commerce-operations-intelligence/blob/main/docs/TRANSFORMATION_LOG.md)
 
+### [Evidence-Grounded Business Research Agent](https://github.com/jeffreyzhjin/business-research-decision-agent)
+
+An AI-assisted research and decision-support prototype that turns an open-ended business question into a structured research plan, traceable evidence, and a decision-ready brief.
+
+- **Research planning:** Breaks a business decision into researchable subquestions, targeted search queries, and observable success criteria
+- **Evidence collection:** Retrieves external information and organizes results into traceable source records
+- **Evidence review:** Separately evaluates source quality, relevance, supported claims, and limitations
+- **Decision support:** Produces a recommendation, confidence level, evidence-backed findings, strategic alternatives, risks, and next steps
+- **Reliability design:** Uses structured validation, source citations, conservative confidence assessment, and fallback mechanisms when evidence is incomplete
+
+[**Live Demo**](https://business-research-decision-agent.vercel.app) · [Repository](https://github.com/jeffreyzhjin/business-research-decision-agent)
+
 ### [Low-altitude Economy Strategy](https://github.com/jeffreyzhjin/low-altitude-economy-strategy)
 
 A scenario-prioritization study for deciding where an internet or technology platform should enter China's low-altitude economy.
